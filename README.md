@@ -4,7 +4,7 @@ DigitalGurukul is a modern learning repository inspired by the traditional Guruk
 
 This repository serves as a one-stop learning hub where you can explore and understand GitHub Badges 📛, follow well-structured project architectures, write clean and maintainable code, and adopt industry-ready development practices used by professional software engineers.
 
-🎯 What You’ll Find Here
+🎯 What You’ll Find Here 
 
 📛 GitHub Badges – Learn how to use badges effectively and understand what they represent in open-source projects
 
