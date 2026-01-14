@@ -18,7 +18,7 @@ This repository serves as a one-stop learning hub where you can explore and unde
 
 🌱 Vision
 
-At DigitalGurukul, the focus is on discipline, consistency, and practical learning.
+At DigitalGurukul, the focus is on discipline, consistency, and practical learning. 
 The goal is simple:
 
 Learn consistently, build practically, and grow digitally.
